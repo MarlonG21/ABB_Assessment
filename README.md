@@ -90,7 +90,7 @@ Robotics Assessment
 ## About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
-The aim of this assessment was to write some initials and draw an image by following a vector graphic image with a an ABB manipulator.
+The aim of this assessment was to write some initials and draw an image by following a vector graphic image on a define work object with a an ABB manipulator.
 
 ### Project component list
 
